@@ -17,3 +17,7 @@ When i did 'console.log(num)', I got 8 as the answer and I am not sure why.
 When i put 10 as the argument 'console.log(myFunction(10))', i got 9 as the answer.
 
 I am still confused about it especially with the 8 as the answer.
+
+Question 4: With the return statement of 'num-1', I think anytime the function is called, the argument will always be subtracted by 1.
+
+Result: the value of num will still remain 10 because it hasn't been passed to the function as an argument and since the value of add is assigned to 3, it will be deducted twice to 1 because the function was called twice
