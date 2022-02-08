@@ -12,8 +12,8 @@ Question 3: With the return statement of 'num-1', I think anytime the function i
 
 Result: 9
 
-When i did 'console.log(myFunction(num))', I got 7 as the answer and I am not sure why.
+When i did 'console.log(num)', I got 8 as the answer and I am not sure why.
 
 When i put 10 as the argument 'console.log(myFunction(10))', i got 9 as the answer.
 
-I am still confused about it especially with the 7 as the answer.
+I am still confused about it especially with the 8 as the answer.

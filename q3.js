@@ -7,4 +7,3 @@ num = myFunction(num)
 num = myFunction(num)
 
 console.log(myFunction(num))
-console.log(myFunction(num))
