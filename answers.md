@@ -36,3 +36,7 @@ Update:I was wrong about this and after talking to the patient, witty, intellige
 Question 7:'count++' means one number is being added. So, the value of counter will be 3 because counter was originally 1 and then it was called 2 more times.
 
 Result:3
+
+Question 8: Since the function is returning the sum of num1+num2, the answer stored in the result variable will be 14
+
+Result:14
