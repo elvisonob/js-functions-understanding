@@ -40,3 +40,8 @@ Result:3
 Question 8: Since the function is returning the sum of num1+num2, the answer stored in the result variable will be 14
 
 Result:14
+
+Question 9: If the console is logged out, i think num3 will come out as undefined because it wasn't passed to the argument in the function.
+
+Resule:undefined
+Update:I got part wrong, but i understood when Lewis explained to me.
