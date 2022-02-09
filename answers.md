@@ -24,6 +24,15 @@ Result: the value of num will still remain 10 because it hasn't been passed to t
 
 Question 5: The value logged inside the function call with 'console.log(num1)' will return no value or undefined because nothing was returned inside the function call.
 
-The values 10 and 2 were given outside the function call, hence it can't take effect inside without a return statement
+The values 10 and 2 were given outside the function call, hence it can't take effect inside without a return statement.
 
 Result:undefined
+
+Question 6: the function with the argument 'num1' was called at the end of the question, hence after the 'console.log' inside the function was called, it will return 2.
+
+Result:2
+Update:I was wrong about this and after talking to the patient, witty, intelligent, nice and understanding tutor, I got a better understanding.
+
+Question 7:'count++' means one number is being added. So, the value of counter will be 3 because counter was originally 1 and then it was called 2 more times.
+
+Result:3
