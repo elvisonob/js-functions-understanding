@@ -69,3 +69,17 @@ getSomeValue() will always be 2 when it is called because that is what it is ass
 Hence, when myFunction is called with a single parameter of 5, it is going to multiply getSomeValue() which was initially assigned 2 and the answer will still be 10.
 
 Result:10
+
+Question 14: Once again, The getSomeValue() has been assigned to return 2.
+The myFunction has a single parameter of num1 and in the block, it has been assigned to return getSomeValue() * getSomeValue().
+I will expect that when it is called, it should return 4. But i am not so sure because the parameter wasn't used.
+
+Result:4
+
+Question 15: I think this myFunction should return -10 when it is called because it said 'if true' and with my little understanding currently, i will say it is true that the function was called in the result variable, hence the first if statement of -10 should be applied.
+
+Result: -10
+
+Question 16: With my understanding of the previous question 15, i think the 'true' supersedes the 'false' and hence the true statement will be returned and this answer will be 50.
+
+Result:50
