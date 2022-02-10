@@ -49,3 +49,23 @@ Update:I got this part wrong, but i understood when Lewis explained to me.
 Question 10: when this code runs, 100 will be logged out of the console because when the function is called, 100 is in same position as 'num3' in the function parameter
 
 Result:100
+
+Question 11:The value of result will be 3 when this code runs because the function is returning the sum of num1, num2 and num3 in the function parameter and hence it has to implement the sum  when the function is called.
+
+Result:3
+
+Question 12: Firstly, whenever function getSomeValue() is called, it will return 2.
+It was assigned inside myFunction to num2 and this will automatically make num2 to be 2.
+myFunction has a single parameter of num1 and it is to return num1 * num2 and when it was called in result variable the parameter 5 had to multiply 2 and the answer will be 10.
+
+Result:10
+
+Question 13: Firstly, whenever function getSomeValue() is called, it will return 2.
+The myFunction has a single parameter of num1.
+getSomeValue() was assigned to num2.
+The myFunction is to return num1 * getSomeValue().
+getSomeValue() will always be 2 when it is called because that is what it is assigned to return earlier.
+
+Hence, when myFunction is called with a single parameter of 5, it is going to multiply getSomeValue() which was initially assigned 2 and the answer will still be 10.
+
+Result:10
