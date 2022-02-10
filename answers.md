@@ -44,4 +44,8 @@ Result:14
 Question 9: If the console is logged out, i think num3 will come out as undefined because it wasn't passed to the argument in the function.
 
 Resule:undefined
-Update:I got part wrong, but i understood when Lewis explained to me.
+Update:I got this part wrong, but i understood when Lewis explained to me.
+
+Question 10: when this code runs, 100 will be logged out of the console because when the function is called, 100 is in same position as 'num3' in the function parameter
+
+Result:100
