@@ -83,3 +83,23 @@ Result: -10
 Question 16: With my understanding of the previous question 15, i think the 'true' supersedes the 'false' and hence the true statement will be returned and this answer will be 50.
 
 Result:50
+
+Question 17: I think this will return -100 because since there are no if statement, the return statement will end at the first return which is -100.
+
+Result:-100
+
+Question 18: Now, with my understanding of previous question, I am sure this is going to return 50, because there is no if statement, hence the return statement will end at the first one.
+
+Result:50
+
+Question 19: According to the order listed, the myFunction will return 10, because num2 is the second argument and when the function is called, 10 is the second argument.
+
+Result:10
+
+Question 20: When this code runs, it is going to return 1005 because myFunction is returning num1 + num3 and when the function is called, num1 is in the first order of 5 and num3 which is the third argument was assigned to 1000 in the code, hence it is going to sum up to be 1005
+
+Result:1005
+
+Question 21: The value of result will be 30 because myFunction is returning the sum of its parameter num1 and num2
+
+Result:30
