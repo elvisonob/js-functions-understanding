@@ -103,3 +103,16 @@ Result:1005
 Question 21: The value of result will be 30 because myFunction is returning the sum of its parameter num1 and num2
 
 Result:30
+
+Question 22:In this question, result is going to be equal to zero because it is assigned outside the function block as zero and since the function wasn't called, it can't return what result is inside the function block.
+
+Result:0
+
+Question 23: In this question, result is still going to be equal to zero because that is what is assigned outside the block and since I am doing 'console.log(result)' it will print 0.
+If i was doing 'console.log(myFunction(100, 2))', it would have printed out 102.
+
+Result:0
+
+Question 24: The value of result will be 100 because it is stated that whenever the function is called with two parameters, it should return 100, so I believe the 100 overrides everything.
+
+Result:100
