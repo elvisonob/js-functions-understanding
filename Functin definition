@@ -1,0 +1,5 @@
+A function is a set of operations in a block which is set and conducted for implementation and it can always be referred to or called outside its block or inside another function.
+
+A function argument is the parameter that is passed inside a function as an input and when it is specified, it can be called upon or referenced alongside a function.
+
+Return Statements are the final steps in a function. When a return is designated, that will be the expected result or implementation each time the function is called.

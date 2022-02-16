@@ -1,8 +1,13 @@
-function myFunction(num1, num2) {
-    result = num1 + num2
+function myFunction(a) {
+    let b = 20
+
+    console.log("a:", a)
+    console.log("b:", b)
+    console.log("c:", c)
 }
 
-let result = 0
-myFunction(100, 2)
+let a = 1
+let b = 2
+let c = 3
 
-console.log(myFunction(100, 2))
+myFunction(100)
